@@ -1,0 +1,32 @@
+{
+  "name": "weatherio",
+  "version": "1.0.0",
+  "description": "An upgraded weather web application along with more relevant features which is designed by using VanillaJS and API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmangUdit96/WeatherIO.git"
+  },
+  "keywords": [
+    "OpenWeatherMap",
+    "VanillaJS",
+    "API",
+    "HTML5",
+    "CSS3",
+    "Vercel"
+  ],
+  "author": "Umang Udit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmangUdit96/WeatherIO/issues"
+  },
+  "homepage": "https://github.com/UmangUdit96/WeatherIO#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "vanilla-javascript": "^1.1.1",
+    "vite": "^4.3.9"
+  }
+}
